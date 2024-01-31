@@ -14,7 +14,8 @@ Navigate to the project directory.
 Run the script.
 Follow the prompts to simulate a coin flip and see the result.
 
-Requirements
+Requirements:
+
 XCode
 
 Contribution
